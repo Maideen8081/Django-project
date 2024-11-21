@@ -1,0 +1,10 @@
+.carousel-item img{
+    object-fit: cover;
+    object-position: top;
+    height: 60vh;
+   
+}
+.carousel-item{
+    background-size: 10;
+
+}
